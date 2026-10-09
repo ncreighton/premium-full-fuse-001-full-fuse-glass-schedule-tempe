@@ -1,0 +1,2 @@
+# premium-full-fuse-001-full-fuse-glass-schedule-tempe
+Stop guessing your glass firing schedule and wasting hours on manual calculations — this Notion template gives you a precise, visual ramp tracker that eliminates thermal shock and devitrification failures.  The Full Fuse Glass Schedule Temperature Ramp Tracker is the only Notion template built specifically for full-fuse glass artists who need to pl
